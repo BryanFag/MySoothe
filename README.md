@@ -30,3 +30,5 @@ O código está organizado em componentes reutilizáveis e demonstra práticas r
 
 🚀 Objetivo
 Este app serve como base ou inspiração para projetos reais de apps de bem-estar, saúde ou qualquer outra aplicação que precise de um layout bonito, fluido e responsivo.
+
+![Screenshot do MySoothe](MySoothe.png)
